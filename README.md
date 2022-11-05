@@ -1,5 +1,7 @@
 # Upwork XML to Sheets and Back
 
+[![HitCount](https://hits.dwyl.com/Danperrout/Upwork-googlesheetxml.svg?style=flat-square)](http://hits.dwyl.com/Danperrout/Upwork-googlesheetxml)
+
 ## Work Description
 
 XML to Sheets and Back
